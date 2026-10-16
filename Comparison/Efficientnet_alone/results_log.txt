@@ -1,0 +1,135 @@
+============================================================
+VALIDATION ACCURACY: 0.6846
+============================================================
+
+============================================================
+TEST ACCURACY: 0.6622
+============================================================
+                   precision    recall  f1-score   support
+
+       Aakasham_A       1.00      0.10      0.18        10
+       Aakasham_B       0.67      1.00      0.80         8
+       Aakasham_C       1.00      0.33      0.50         6
+           Aana_A       0.67      0.55      0.60        11
+           Aana_C       1.00      1.00      1.00         2
+       Aayudham_A       0.67      0.20      0.31        10
+       Aayudham_B       0.76      1.00      0.87        13
+       Aayudham_C       1.00      0.67      0.80         9
+         Acchan_A       0.50      0.38      0.43        13
+         Acchan_B       0.00      0.00      0.00         4
+         Acchan_C       0.50      0.09      0.15        11
+       Albutham_A       0.67      0.40      0.50         5
+       Albutham_B       0.88      0.68      0.77        22
+       Albutham_C       0.40      0.50      0.44         4
+           Amma_A       1.00      0.83      0.91         6
+           Amma_B       0.85      0.85      0.85        13
+           Amma_C       0.88      1.00      0.94        15
+      Anugraham_A       0.57      0.40      0.47        10
+      Anugraham_B       0.60      0.27      0.38        11
+      Anugraham_C       0.54      1.00      0.70         7
+     Ariyikkuka_A       0.73      0.57      0.64        14
+     Ariyikkuka_B       0.56      1.00      0.72         9
+     Ariyikkuka_C       0.78      0.78      0.78         9
+         Baalan_A       0.75      0.60      0.67         5
+         Baalan_B       0.92      0.92      0.92        12
+         Baalan_C       0.68      1.00      0.81        15
+         Bhoomi_A       0.64      0.41      0.50        17
+         Bhoomi_B       0.40      1.00      0.57         4
+         Bhoomi_C       0.00      0.00      0.00         5
+     Bhrahmaavu_A       0.45      0.56      0.50         9
+     Bhrahmaavu_B       0.33      0.12      0.18         8
+     Bhrahmaavu_C       0.17      1.00      0.29         2
+       Chandran_A       0.68      0.68      0.68        19
+       Chandran_C       0.20      0.50      0.29         2
+         Chundu_A       0.73      0.67      0.70        12
+         Chundu_B       0.69      0.95      0.80        19
+         Chundu_C       0.78      1.00      0.88         7
+          Gunam_A       0.48      0.94      0.64        17
+          Gunam_B       0.00      0.00      0.00         3
+          Gunam_C       0.50      0.83      0.62         6
+       Irikkuka_A       0.67      0.60      0.63        10
+       Irikkuka_B       0.00      0.00      0.00         8
+       Irikkuka_C       0.25      0.50      0.33         2
+          Kaadu_A       0.00      0.00      0.00        13
+          Kaadu_B       0.90      0.47      0.62        19
+          Kaadu_C       1.00      1.00      1.00         2
+         Kallan_A       0.50      0.11      0.18         9
+         Kallan_B       0.26      0.45      0.33        11
+         Kallan_C       0.50      0.40      0.44         5
+          Kannu_A       0.81      0.81      0.81        26
+          Kannu_B       0.50      0.50      0.50         2
+          Kannu_C       0.80      0.80      0.80         5
+        Kashtam_A       0.86      0.86      0.86        14
+        Kashtam_B       0.79      0.90      0.84        21
+        Kashtam_C       0.33      0.50      0.40         2
+          Kuyil_A       0.53      0.62      0.57        16
+          Kuyil_B       0.73      1.00      0.85        22
+          Kuyil_C       0.33      0.50      0.40         2
+        Manassu_A       0.75      0.30      0.43        10
+        Manassu_B       0.86      0.35      0.50        17
+        Manassu_C       0.53      1.00      0.70         8
+      Nadakkuka_A       0.50      0.89      0.64         9
+      Nadakkuka_B       0.21      0.60      0.32         5
+      Nadakkuka_C       0.00      0.00      0.00         2
+    Nee_Roudram_A       0.00      0.00      0.00         4
+    Nee_Roudram_B       1.00      0.95      0.98        21
+    Nee_Roudram_C       1.00      1.00      1.00         2
+Nee_Shringaaram_A       0.91      0.91      0.91        22
+Nee_Shringaaram_C       1.00      0.75      0.86         4
+         Paadam_A       0.90      0.56      0.69        16
+         Paadam_B       0.43      0.86      0.57         7
+         Paadam_C       0.00      0.00      0.00         5
+         Pazham_A       0.80      0.62      0.70        13
+         Pazham_B       0.78      0.78      0.78         9
+         Pazham_C       0.83      1.00      0.91        20
+        Pushpam_A       0.58      0.61      0.59        18
+        Pushpam_B       0.93      0.82      0.88        17
+        Pushpam_C       0.93      0.87      0.90        15
+        Raajyam_A       0.82      0.82      0.82        22
+        Raajyam_B       0.77      0.91      0.83        11
+        Raajyam_C       0.67      0.50      0.57         8
+       Samudram_A       0.85      0.85      0.85        13
+       Samudram_B       1.00      1.00      1.00         3
+       Samudram_C       0.50      0.50      0.50         2
+         Satyam_A       0.00      0.00      0.00         8
+         Satyam_B       0.65      1.00      0.79        22
+         Satyam_C       0.00      0.00      0.00         2
+         Shivan_A       0.00      0.00      0.00         7
+         Shivan_B       0.55      0.60      0.57        10
+         Shivan_C       0.00      0.00      0.00         2
+         Simham_A       0.00      0.00      0.00         6
+         Simham_B       1.00      0.50      0.67         4
+         Simham_C       0.75      1.00      0.86         3
+        Sooryan_A       0.65      1.00      0.79        11
+        Sooryan_B       0.00      0.00      0.00         4
+        Sooryan_C       1.00      0.50      0.67         2
+        Svargam_A       0.41      0.78      0.54         9
+        Svargam_B       0.50      0.27      0.35        15
+        Svargam_C       0.27      0.50      0.35         8
+       Thaamara_A       0.61      0.69      0.65        16
+       Thaamara_B       0.81      0.81      0.81        21
+       Thaamara_C       1.00      1.00      1.00         2
+      Thalamudi_A       0.60      0.43      0.50         7
+      Thalamudi_B       0.79      0.94      0.86        16
+      Thalamudi_C       1.00      1.00      1.00         7
+        Thaliru_A       0.36      0.67      0.47         6
+        Thaliru_B       0.89      0.94      0.91        17
+        Thaliru_C       0.83      1.00      0.90        19
+        Urakkam_A       0.64      1.00      0.78         9
+        Urakkam_B       0.60      0.86      0.71         7
+        Urakkam_C       0.60      0.75      0.67        12
+          Veedu_A       0.60      0.33      0.43         9
+          Veedu_B       0.25      0.40      0.31         5
+          Veedu_C       0.58      0.92      0.71        12
+         Vishnu_A       1.00      0.07      0.13        14
+         Vishnu_C       1.00      0.50      0.67         2
+       Vriksham_A       0.36      0.19      0.24        27
+       Vriksham_B       0.67      0.67      0.67         3
+       Vriksham_C       0.67      1.00      0.80        10
+
+         accuracy                           0.66      1190
+        macro avg       0.60      0.61      0.57      1190
+     weighted avg       0.66      0.66      0.63      1190
+
+Best Epoch: 46
+Best Validation Accuracy: 0.7004754543304443
