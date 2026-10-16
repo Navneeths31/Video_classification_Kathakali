@@ -1,0 +1,259 @@
+Epoch 1/50 | Train Acc: 0.0288 | Val Acc: 0.0095 | Train Loss: 5.0608 | Val Loss: 4.8679
+Epoch 2/50 | Train Acc: 0.1756 | Val Acc: 0.0460 | Train Loss: 4.1312 | Val Loss: 4.7541
+Epoch 3/50 | Train Acc: 0.4033 | Val Acc: 0.0745 | Train Loss: 3.3339 | Val Loss: 4.4569
+Epoch 4/50 | Train Acc: 0.5652 | Val Acc: 0.2345 | Train Loss: 2.7523 | Val Loss: 3.5537
+Epoch 5/50 | Train Acc: 0.6526 | Val Acc: 0.5990 | Train Loss: 2.3517 | Val Loss: 2.5789
+Epoch 6/50 | Train Acc: 0.7332 | Val Acc: 0.6133 | Train Loss: 2.0421 | Val Loss: 2.3251
+Epoch 7/50 | Train Acc: 0.7672 | Val Acc: 0.7021 | Train Loss: 1.8402 | Val Loss: 2.0318
+Epoch 8/50 | Train Acc: 0.8048 | Val Acc: 0.6894 | Train Loss: 1.6740 | Val Loss: 2.0581
+Epoch 9/50 | Train Acc: 0.8370 | Val Acc: 0.7068 | Train Loss: 1.5471 | Val Loss: 1.9940
+Epoch 10/50 | Train Acc: 0.8606 | Val Acc: 0.7242 | Train Loss: 1.4740 | Val Loss: 1.9732
+Epoch 11/50 | Train Acc: 0.8847 | Val Acc: 0.7227 | Train Loss: 1.3841 | Val Loss: 1.9547
+Epoch 12/50 | Train Acc: 0.9079 | Val Acc: 0.7227 | Train Loss: 1.3003 | Val Loss: 1.8676
+Epoch 13/50 | Train Acc: 0.9225 | Val Acc: 0.7036 | Train Loss: 1.2433 | Val Loss: 1.9573
+Epoch 14/50 | Train Acc: 0.9390 | Val Acc: 0.7052 | Train Loss: 1.1945 | Val Loss: 1.8468
+Epoch 15/50 | Train Acc: 0.9451 | Val Acc: 0.7765 | Train Loss: 1.1659 | Val Loss: 1.7246
+Epoch 16/50 | Train Acc: 0.9538 | Val Acc: 0.6640 | Train Loss: 1.1276 | Val Loss: 2.0541
+Epoch 17/50 | Train Acc: 0.9669 | Val Acc: 0.7448 | Train Loss: 1.1003 | Val Loss: 1.8227
+Epoch 18/50 | Train Acc: 0.9759 | Val Acc: 0.7655 | Train Loss: 1.0721 | Val Loss: 1.7088
+Epoch 19/50 | Train Acc: 0.9809 | Val Acc: 0.6941 | Train Loss: 1.0466 | Val Loss: 1.9187
+Epoch 20/50 | Train Acc: 0.9833 | Val Acc: 0.7559 | Train Loss: 1.0370 | Val Loss: 1.7841
+Epoch 21/50 | Train Acc: 0.9878 | Val Acc: 0.7639 | Train Loss: 1.0204 | Val Loss: 1.6966
+Epoch 22/50 | Train Acc: 0.9890 | Val Acc: 0.7195 | Train Loss: 1.0146 | Val Loss: 1.8593
+Epoch 23/50 | Train Acc: 0.9928 | Val Acc: 0.7369 | Train Loss: 1.0012 | Val Loss: 1.8236
+Epoch 24/50 | Train Acc: 0.9939 | Val Acc: 0.7829 | Train Loss: 0.9960 | Val Loss: 1.6319
+Epoch 25/50 | Train Acc: 0.9928 | Val Acc: 0.7448 | Train Loss: 0.9938 | Val Loss: 1.8015
+Epoch 26/50 | Train Acc: 0.9953 | Val Acc: 0.7385 | Train Loss: 0.9822 | Val Loss: 1.7952
+Epoch 27/50 | Train Acc: 0.9932 | Val Acc: 0.7686 | Train Loss: 0.9853 | Val Loss: 1.6694
+Epoch 28/50 | Train Acc: 0.9955 | Val Acc: 0.7781 | Train Loss: 0.9731 | Val Loss: 1.6503
+Epoch 29/50 | Train Acc: 0.9955 | Val Acc: 0.7845 | Train Loss: 0.9688 | Val Loss: 1.6878
+Epoch 30/50 | Train Acc: 0.9937 | Val Acc: 0.7861 | Train Loss: 0.9690 | Val Loss: 1.6550
+Epoch 31/50 | Train Acc: 0.9959 | Val Acc: 0.7496 | Train Loss: 0.9612 | Val Loss: 1.6918
+Epoch 32/50 | Train Acc: 0.9982 | Val Acc: 0.7512 | Train Loss: 0.9551 | Val Loss: 1.6719
+Epoch 33/50 | Train Acc: 0.9973 | Val Acc: 0.7670 | Train Loss: 0.9548 | Val Loss: 1.6644
+Epoch 34/50 | Train Acc: 0.9968 | Val Acc: 0.7734 | Train Loss: 0.9560 | Val Loss: 1.6432
+Epoch 35/50 | Train Acc: 0.9966 | Val Acc: 0.7781 | Train Loss: 0.9521 | Val Loss: 1.5911
+Epoch 36/50 | Train Acc: 0.9980 | Val Acc: 0.7702 | Train Loss: 0.9490 | Val Loss: 1.6292
+Epoch 37/50 | Train Acc: 0.9971 | Val Acc: 0.7908 | Train Loss: 0.9465 | Val Loss: 1.6193
+Epoch 38/50 | Train Acc: 0.9982 | Val Acc: 0.7559 | Train Loss: 0.9441 | Val Loss: 1.6397
+Epoch 39/50 | Train Acc: 0.9973 | Val Acc: 0.7892 | Train Loss: 0.9427 | Val Loss: 1.5928
+Epoch 40/50 | Train Acc: 0.9977 | Val Acc: 0.7861 | Train Loss: 0.9425 | Val Loss: 1.5886
+Epoch 41/50 | Train Acc: 0.9975 | Val Acc: 0.7971 | Train Loss: 0.9434 | Val Loss: 1.5865
+Epoch 42/50 | Train Acc: 0.9986 | Val Acc: 0.7924 | Train Loss: 0.9371 | Val Loss: 1.5755
+Epoch 43/50 | Train Acc: 0.9984 | Val Acc: 0.7781 | Train Loss: 0.9380 | Val Loss: 1.6110
+Epoch 44/50 | Train Acc: 0.9977 | Val Acc: 0.7797 | Train Loss: 0.9393 | Val Loss: 1.6131
+Epoch 45/50 | Train Acc: 0.9971 | Val Acc: 0.7861 | Train Loss: 0.9356 | Val Loss: 1.5893
+Epoch 46/50 | Train Acc: 0.9975 | Val Acc: 0.7940 | Train Loss: 0.9390 | Val Loss: 1.5890
+Epoch 47/50 | Train Acc: 0.9977 | Val Acc: 0.7924 | Train Loss: 0.9370 | Val Loss: 1.5875
+Epoch 48/50 | Train Acc: 0.9975 | Val Acc: 0.7971 | Train Loss: 0.9373 | Val Loss: 1.5851
+Epoch 49/50 | Train Acc: 0.9977 | Val Acc: 0.7924 | Train Loss: 0.9325 | Val Loss: 1.5860
+Epoch 50/50 | Train Acc: 0.9975 | Val Acc: 0.7940 | Train Loss: 0.9358 | Val Loss: 1.5858
+
+================================================================================
+FINAL RESULTS
+================================================================================
+
+
+============================================================
+TEST ACCURACY: 0.7950
+============================================================
+
+CLASSIFICATION REPORT
+--------------------------------------------------------------------------------
+
+                   precision    recall  f1-score   support
+
+       Aakasham_A       1.00      0.10      0.18        10
+       Aakasham_B       0.78      0.88      0.82         8
+       Aakasham_C       1.00      0.67      0.80         6
+           Aana_A       1.00      0.55      0.71        11
+           Aana_C       0.33      1.00      0.50         2
+       Aayudham_A       1.00      0.40      0.57        10
+       Aayudham_B       0.93      1.00      0.96        13
+       Aayudham_C       1.00      0.89      0.94         9
+         Acchan_A       0.57      0.62      0.59        13
+         Acchan_B       0.20      0.50      0.29         4
+         Acchan_C       0.50      0.09      0.15        11
+       Albutham_A       0.67      0.40      0.50         5
+       Albutham_B       1.00      0.64      0.78        22
+       Albutham_C       0.33      0.75      0.46         4
+           Amma_A       0.83      0.83      0.83         6
+           Amma_B       0.93      1.00      0.96        13
+           Amma_C       1.00      1.00      1.00        15
+      Anugraham_A       0.90      0.90      0.90        10
+      Anugraham_B       0.70      0.64      0.67        11
+      Anugraham_C       0.60      0.86      0.71         7
+     Ariyikkuka_A       1.00      0.86      0.92        14
+     Ariyikkuka_B       0.75      1.00      0.86         9
+     Ariyikkuka_C       0.75      0.33      0.46         9
+         Baalan_A       0.71      1.00      0.83         5
+         Baalan_B       1.00      0.83      0.91        12
+         Baalan_C       1.00      1.00      1.00        15
+         Bhoomi_A       0.62      0.59      0.61        17
+         Bhoomi_B       0.38      0.75      0.50         4
+         Bhoomi_C       0.50      0.20      0.29         5
+     Bhrahmaavu_A       0.55      0.67      0.60         9
+     Bhrahmaavu_B       1.00      0.25      0.40         8
+     Bhrahmaavu_C       0.22      1.00      0.36         2
+       Chandran_A       1.00      0.84      0.91        19
+       Chandran_B       0.00      0.00      0.00         0
+       Chandran_C       1.00      0.50      0.67         2
+         Chundu_A       0.92      0.92      0.92        12
+         Chundu_B       0.95      1.00      0.97        19
+         Chundu_C       0.88      1.00      0.93         7
+          Gunam_A       0.74      1.00      0.85        17
+          Gunam_B       0.00      0.00      0.00         3
+          Gunam_C       1.00      0.83      0.91         6
+       Irikkuka_A       0.83      1.00      0.91        10
+       Irikkuka_B       0.88      0.88      0.88         8
+       Irikkuka_C       1.00      0.50      0.67         2
+          Kaadu_A       0.00      0.00      0.00        13
+          Kaadu_B       1.00      0.53      0.69        19
+          Kaadu_C       1.00      1.00      1.00         2
+         Kallan_A       0.75      1.00      0.86         9
+         Kallan_B       1.00      0.64      0.78        11
+         Kallan_C       0.42      1.00      0.59         5
+          Kannu_A       1.00      0.81      0.89        26
+          Kannu_B       0.33      1.00      0.50         2
+          Kannu_C       1.00      0.20      0.33         5
+        Kashtam_A       0.87      0.93      0.90        14
+        Kashtam_B       0.95      0.95      0.95        21
+        Kashtam_C       0.33      1.00      0.50         2
+          Kuyil_A       0.65      0.81      0.72        16
+          Kuyil_B       0.85      1.00      0.92        22
+          Kuyil_C       0.00      0.00      0.00         2
+        Manassu_A       1.00      0.80      0.89        10
+        Manassu_B       0.92      0.65      0.76        17
+        Manassu_C       0.73      1.00      0.84         8
+      Nadakkuka_A       0.90      1.00      0.95         9
+      Nadakkuka_B       0.56      1.00      0.71         5
+      Nadakkuka_C       0.00      0.00      0.00         2
+    Nee_Roudram_A       0.67      0.50      0.57         4
+    Nee_Roudram_B       1.00      1.00      1.00        21
+    Nee_Roudram_C       1.00      1.00      1.00         2
+Nee_Shringaaram_A       1.00      1.00      1.00        22
+Nee_Shringaaram_C       0.80      1.00      0.89         4
+         Paadam_A       0.68      0.94      0.79        16
+         Paadam_B       0.50      0.43      0.46         7
+         Paadam_C       0.50      0.20      0.29         5
+         Pazham_A       0.77      0.77      0.77        13
+         Pazham_B       0.82      1.00      0.90         9
+         Pazham_C       0.91      1.00      0.95        20
+        Pushpam_A       0.81      0.72      0.76        18
+        Pushpam_B       1.00      0.82      0.90        17
+        Pushpam_C       0.87      0.87      0.87        15
+        Raajyam_A       0.95      0.95      0.95        22
+        Raajyam_B       0.79      1.00      0.88        11
+        Raajyam_C       1.00      0.88      0.93         8
+       Samudram_A       1.00      0.85      0.92        13
+       Samudram_B       1.00      1.00      1.00         3
+       Samudram_C       0.50      1.00      0.67         2
+         Satyam_A       0.33      0.12      0.18         8
+         Satyam_B       0.96      1.00      0.98        22
+         Satyam_C       0.40      1.00      0.57         2
+         Shivan_A       0.33      0.29      0.31         7
+         Shivan_B       0.91      1.00      0.95        10
+         Shivan_C       0.67      1.00      0.80         2
+         Simham_A       0.00      0.00      0.00         6
+         Simham_B       1.00      1.00      1.00         4
+         Simham_C       0.75      1.00      0.86         3
+        Sooryan_A       0.85      1.00      0.92        11
+        Sooryan_B       0.67      0.50      0.57         4
+        Sooryan_C       1.00      1.00      1.00         2
+        Svargam_A       0.45      1.00      0.62         9
+        Svargam_B       0.75      1.00      0.86        15
+        Svargam_C       1.00      0.50      0.67         8
+       Thaamara_A       1.00      0.94      0.97        16
+       Thaamara_B       0.95      1.00      0.98        21
+       Thaamara_C       1.00      1.00      1.00         2
+      Thalamudi_A       0.83      0.71      0.77         7
+      Thalamudi_B       0.84      1.00      0.91        16
+      Thalamudi_C       1.00      1.00      1.00         7
+        Thaliru_A       0.50      0.83      0.62         6
+        Thaliru_B       0.88      0.88      0.88        17
+        Thaliru_C       1.00      1.00      1.00        19
+        Urakkam_A       0.75      1.00      0.86         9
+        Urakkam_B       0.67      0.86      0.75         7
+        Urakkam_C       0.91      0.83      0.87        12
+          Veedu_A       0.88      0.78      0.82         9
+          Veedu_B       0.33      0.40      0.36         5
+          Veedu_C       0.61      0.92      0.73        12
+         Vishnu_A       0.83      0.36      0.50        14
+         Vishnu_C       1.00      0.50      0.67         2
+       Vriksham_A       0.58      0.52      0.55        27
+       Vriksham_B       0.60      1.00      0.75         3
+       Vriksham_C       0.62      1.00      0.77        10
+
+         accuracy                           0.79      1190
+        macro avg       0.75      0.76      0.72      1190
+     weighted avg       0.82      0.79      0.78      1190
+
+
+
+================================================================================
+BEST MODEL DETAILS
+================================================================================
+
+Best Epoch: 41
+Best Validation Accuracy: 0.7971
+Training Accuracy at Best Epoch: 0.9975
+Training Loss at Best Epoch: 0.9434
+Validation Loss at Best Epoch: 1.5865
+
+Saved Best Model Path:
+C:\Users\navne\OneDrive\Desktop\IIITK\Research\Video_Classification\Ablation\Gates\Without_both_gates\best_fusion.keras
+
+================================================================================
+FULL TRAINING HISTORY
+================================================================================
+
+Epoch 01 | Train Acc: 0.0288 | Val Acc: 0.0095 | Train Loss: 5.0608 | Val Loss: 4.8679
+Epoch 02 | Train Acc: 0.1756 | Val Acc: 0.0460 | Train Loss: 4.1312 | Val Loss: 4.7541
+Epoch 03 | Train Acc: 0.4033 | Val Acc: 0.0745 | Train Loss: 3.3339 | Val Loss: 4.4569
+Epoch 04 | Train Acc: 0.5652 | Val Acc: 0.2345 | Train Loss: 2.7523 | Val Loss: 3.5537
+Epoch 05 | Train Acc: 0.6526 | Val Acc: 0.5990 | Train Loss: 2.3517 | Val Loss: 2.5789
+Epoch 06 | Train Acc: 0.7332 | Val Acc: 0.6133 | Train Loss: 2.0421 | Val Loss: 2.3251
+Epoch 07 | Train Acc: 0.7672 | Val Acc: 0.7021 | Train Loss: 1.8402 | Val Loss: 2.0318
+Epoch 08 | Train Acc: 0.8048 | Val Acc: 0.6894 | Train Loss: 1.6740 | Val Loss: 2.0581
+Epoch 09 | Train Acc: 0.8370 | Val Acc: 0.7068 | Train Loss: 1.5471 | Val Loss: 1.9940
+Epoch 10 | Train Acc: 0.8606 | Val Acc: 0.7242 | Train Loss: 1.4740 | Val Loss: 1.9732
+Epoch 11 | Train Acc: 0.8847 | Val Acc: 0.7227 | Train Loss: 1.3841 | Val Loss: 1.9547
+Epoch 12 | Train Acc: 0.9079 | Val Acc: 0.7227 | Train Loss: 1.3003 | Val Loss: 1.8676
+Epoch 13 | Train Acc: 0.9225 | Val Acc: 0.7036 | Train Loss: 1.2433 | Val Loss: 1.9573
+Epoch 14 | Train Acc: 0.9390 | Val Acc: 0.7052 | Train Loss: 1.1945 | Val Loss: 1.8468
+Epoch 15 | Train Acc: 0.9451 | Val Acc: 0.7765 | Train Loss: 1.1659 | Val Loss: 1.7246
+Epoch 16 | Train Acc: 0.9538 | Val Acc: 0.6640 | Train Loss: 1.1276 | Val Loss: 2.0541
+Epoch 17 | Train Acc: 0.9669 | Val Acc: 0.7448 | Train Loss: 1.1003 | Val Loss: 1.8227
+Epoch 18 | Train Acc: 0.9759 | Val Acc: 0.7655 | Train Loss: 1.0721 | Val Loss: 1.7088
+Epoch 19 | Train Acc: 0.9809 | Val Acc: 0.6941 | Train Loss: 1.0466 | Val Loss: 1.9187
+Epoch 20 | Train Acc: 0.9833 | Val Acc: 0.7559 | Train Loss: 1.0370 | Val Loss: 1.7841
+Epoch 21 | Train Acc: 0.9878 | Val Acc: 0.7639 | Train Loss: 1.0204 | Val Loss: 1.6966
+Epoch 22 | Train Acc: 0.9890 | Val Acc: 0.7195 | Train Loss: 1.0146 | Val Loss: 1.8593
+Epoch 23 | Train Acc: 0.9928 | Val Acc: 0.7369 | Train Loss: 1.0012 | Val Loss: 1.8236
+Epoch 24 | Train Acc: 0.9939 | Val Acc: 0.7829 | Train Loss: 0.9960 | Val Loss: 1.6319
+Epoch 25 | Train Acc: 0.9928 | Val Acc: 0.7448 | Train Loss: 0.9938 | Val Loss: 1.8015
+Epoch 26 | Train Acc: 0.9953 | Val Acc: 0.7385 | Train Loss: 0.9822 | Val Loss: 1.7952
+Epoch 27 | Train Acc: 0.9932 | Val Acc: 0.7686 | Train Loss: 0.9853 | Val Loss: 1.6694
+Epoch 28 | Train Acc: 0.9955 | Val Acc: 0.7781 | Train Loss: 0.9731 | Val Loss: 1.6503
+Epoch 29 | Train Acc: 0.9955 | Val Acc: 0.7845 | Train Loss: 0.9688 | Val Loss: 1.6878
+Epoch 30 | Train Acc: 0.9937 | Val Acc: 0.7861 | Train Loss: 0.9690 | Val Loss: 1.6550
+Epoch 31 | Train Acc: 0.9959 | Val Acc: 0.7496 | Train Loss: 0.9612 | Val Loss: 1.6918
+Epoch 32 | Train Acc: 0.9982 | Val Acc: 0.7512 | Train Loss: 0.9551 | Val Loss: 1.6719
+Epoch 33 | Train Acc: 0.9973 | Val Acc: 0.7670 | Train Loss: 0.9548 | Val Loss: 1.6644
+Epoch 34 | Train Acc: 0.9968 | Val Acc: 0.7734 | Train Loss: 0.9560 | Val Loss: 1.6432
+Epoch 35 | Train Acc: 0.9966 | Val Acc: 0.7781 | Train Loss: 0.9521 | Val Loss: 1.5911
+Epoch 36 | Train Acc: 0.9980 | Val Acc: 0.7702 | Train Loss: 0.9490 | Val Loss: 1.6292
+Epoch 37 | Train Acc: 0.9971 | Val Acc: 0.7908 | Train Loss: 0.9465 | Val Loss: 1.6193
+Epoch 38 | Train Acc: 0.9982 | Val Acc: 0.7559 | Train Loss: 0.9441 | Val Loss: 1.6397
+Epoch 39 | Train Acc: 0.9973 | Val Acc: 0.7892 | Train Loss: 0.9427 | Val Loss: 1.5928
+Epoch 40 | Train Acc: 0.9977 | Val Acc: 0.7861 | Train Loss: 0.9425 | Val Loss: 1.5886
+Epoch 41 | Train Acc: 0.9975 | Val Acc: 0.7971 | Train Loss: 0.9434 | Val Loss: 1.5865
+Epoch 42 | Train Acc: 0.9986 | Val Acc: 0.7924 | Train Loss: 0.9371 | Val Loss: 1.5755
+Epoch 43 | Train Acc: 0.9984 | Val Acc: 0.7781 | Train Loss: 0.9380 | Val Loss: 1.6110
+Epoch 44 | Train Acc: 0.9977 | Val Acc: 0.7797 | Train Loss: 0.9393 | Val Loss: 1.6131
+Epoch 45 | Train Acc: 0.9971 | Val Acc: 0.7861 | Train Loss: 0.9356 | Val Loss: 1.5893
+Epoch 46 | Train Acc: 0.9975 | Val Acc: 0.7940 | Train Loss: 0.9390 | Val Loss: 1.5890
+Epoch 47 | Train Acc: 0.9977 | Val Acc: 0.7924 | Train Loss: 0.9370 | Val Loss: 1.5875
+Epoch 48 | Train Acc: 0.9975 | Val Acc: 0.7971 | Train Loss: 0.9373 | Val Loss: 1.5851
+Epoch 49 | Train Acc: 0.9977 | Val Acc: 0.7924 | Train Loss: 0.9325 | Val Loss: 1.5860
+Epoch 50 | Train Acc: 0.9975 | Val Acc: 0.7940 | Train Loss: 0.9358 | Val Loss: 1.5858
