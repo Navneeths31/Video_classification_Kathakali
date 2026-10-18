@@ -1,0 +1,18 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Vriksham\Vriksham_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 17
+
+Frame predictions:
+frame_000022.jpg    Vriksham_A (0.8015)
+frame_000055.jpg    Vriksham_A (0.8775)
+frame_000066.jpg    Vriksham_A (0.8837)
+frame_000077.jpg    Vriksham_A (0.6993)
+frame_000110.jpg    Vriksham_A (0.6087)
+frame_000154.jpg    Gunam_A (0.8398)
+frame_000473.jpg    Vriksham_C (0.8753)
+
+Final Word        : Vriksham
+Frame Count       : 6
+Probability Sum   : 4.7462
+Normalized Prob   : 0.7910
+Confidence (%)    : 79.10

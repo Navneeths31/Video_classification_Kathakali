@@ -1,0 +1,27 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Manassu\Manassu_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 20
+
+Frame predictions:
+frame_000000.jpg    Pazham_C (0.9304)
+frame_000033.jpg    Manassu_A (0.8272)
+frame_000044.jpg    Manassu_A (0.6481)
+frame_000055.jpg    Manassu_B (0.5351)
+frame_000066.jpg    Manassu_B (0.9525)
+frame_000077.jpg    Manassu_B (0.8699)
+frame_000088.jpg    Manassu_B (0.8955)
+frame_000176.jpg    Manassu_B (0.8810)
+frame_000187.jpg    Manassu_B (0.6979)
+frame_000198.jpg    Manassu_B (0.8504)
+frame_000209.jpg    Manassu_C (0.9445)
+frame_000220.jpg    Manassu_C (0.9630)
+frame_000231.jpg    Manassu_C (0.9176)
+frame_000242.jpg    Manassu_C (0.9273)
+frame_000253.jpg    Manassu_C (0.9689)
+frame_000407.jpg    Manassu_C (0.9218)
+
+Final Word        : Manassu
+Frame Count       : 15
+Probability Sum   : 12.8007
+Normalized Prob   : 0.8534
+Confidence (%)    : 85.34

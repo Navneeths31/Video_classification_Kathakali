@@ -1,0 +1,18 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Aana\Aana_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 9
+
+Frame predictions:
+frame_000022.jpg    Aana_A (0.9595)
+frame_000033.jpg    Aana_A (0.9712)
+frame_000044.jpg    Aana_A (0.9730)
+frame_000055.jpg    Aana_A (0.9563)
+frame_000066.jpg    Aana_A (0.7417)
+frame_000077.jpg    Aana_A (0.9269)
+frame_000385.jpg    Aana_C (0.9741)
+
+Final Word        : Aana
+Frame Count       : 7
+Probability Sum   : 6.5028
+Normalized Prob   : 0.9290
+Confidence (%)    : 92.90

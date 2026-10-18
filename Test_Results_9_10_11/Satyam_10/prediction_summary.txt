@@ -1,0 +1,22 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Satyam\Satyam_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 13
+
+Frame predictions:
+frame_000011.jpg    Acchan_A (0.7430)
+frame_000022.jpg    Acchan_A (0.6851)
+frame_000033.jpg    Acchan_A (0.7878)
+frame_000154.jpg    Satyam_B (0.7976)
+frame_000165.jpg    Satyam_B (0.5837)
+frame_000176.jpg    Satyam_B (0.7219)
+frame_000187.jpg    Satyam_B (0.6117)
+frame_000198.jpg    Satyam_B (0.7175)
+frame_000209.jpg    Satyam_B (0.6895)
+frame_000264.jpg    Satyam_B (0.7571)
+frame_000275.jpg    Satyam_B (0.7104)
+
+Final Word        : Satyam
+Frame Count       : 8
+Probability Sum   : 5.5895
+Normalized Prob   : 0.6987
+Confidence (%)    : 69.87

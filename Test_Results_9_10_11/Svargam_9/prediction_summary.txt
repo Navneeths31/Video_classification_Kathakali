@@ -1,0 +1,21 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Svargam\Svargam_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 14
+
+Frame predictions:
+frame_000000.jpg    Svargam_A (0.9639)
+frame_000011.jpg    Svargam_A (0.9125)
+frame_000022.jpg    Svargam_A (0.9468)
+frame_000033.jpg    Svargam_A (0.8042)
+frame_000044.jpg    Svargam_A (0.5511)
+frame_000198.jpg    Svargam_B (0.5338)
+frame_000363.jpg    Svargam_C (0.7623)
+frame_000374.jpg    Svargam_C (0.5570)
+frame_000385.jpg    Svargam_C (0.5868)
+frame_000506.jpg    Svargam_C (0.8022)
+
+Final Word        : Svargam
+Frame Count       : 10
+Probability Sum   : 7.4205
+Normalized Prob   : 0.7420
+Confidence (%)    : 74.20

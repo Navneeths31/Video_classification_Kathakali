@@ -1,0 +1,22 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Aakasham\Aakasham_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 13
+
+Frame predictions:
+frame_000022.jpg    Svargam_A (0.8435)
+frame_000033.jpg    Svargam_A (0.6803)
+frame_000044.jpg    Svargam_A (0.6282)
+frame_000055.jpg    Aakasham_A (0.6140)
+frame_000066.jpg    Svargam_A (0.5609)
+frame_000209.jpg    Aakasham_B (0.9735)
+frame_000308.jpg    Aakasham_C (0.5537)
+frame_000319.jpg    Aakasham_C (0.6457)
+frame_000330.jpg    Aakasham_C (0.6494)
+frame_000341.jpg    Aakasham_C (0.8107)
+frame_000517.jpg    Aakasham_C (0.5354)
+
+Final Word        : Aakasham
+Frame Count       : 7
+Probability Sum   : 4.7823
+Normalized Prob   : 0.6832
+Confidence (%)    : 68.32

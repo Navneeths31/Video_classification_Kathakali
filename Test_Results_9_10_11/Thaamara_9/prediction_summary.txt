@@ -1,0 +1,32 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Thaamara\Thaamara_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 21
+
+Frame predictions:
+frame_000000.jpg    Thaamara_A (0.7389)
+frame_000011.jpg    Thaamara_A (0.9544)
+frame_000022.jpg    Thaamara_A (0.9116)
+frame_000033.jpg    Thaamara_A (0.9486)
+frame_000044.jpg    Thaamara_A (0.8607)
+frame_000055.jpg    Thaamara_A (0.8765)
+frame_000143.jpg    Thaamara_B (0.7968)
+frame_000154.jpg    Thaamara_B (0.9730)
+frame_000165.jpg    Thaamara_B (0.9398)
+frame_000176.jpg    Thaamara_B (0.9533)
+frame_000187.jpg    Thaamara_B (0.9906)
+frame_000198.jpg    Thaamara_B (0.9912)
+frame_000209.jpg    Thaamara_B (0.9917)
+frame_000220.jpg    Thaamara_B (0.9754)
+frame_000231.jpg    Thaamara_B (0.9815)
+frame_000264.jpg    Thaamara_B (0.9962)
+frame_000275.jpg    Thaamara_B (0.9705)
+frame_000286.jpg    Thaamara_B (0.9435)
+frame_000297.jpg    Thaamara_B (0.9333)
+frame_000308.jpg    Thaamara_B (0.9818)
+frame_000792.jpg    Thaamara_B (0.6376)
+
+Final Word        : Thaamara
+Frame Count       : 21
+Probability Sum   : 19.3471
+Normalized Prob   : 0.9213
+Confidence (%)    : 92.13

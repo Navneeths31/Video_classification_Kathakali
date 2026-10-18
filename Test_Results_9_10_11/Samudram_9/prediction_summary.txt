@@ -1,0 +1,19 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Samudram\Samudram_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 9
+
+Frame predictions:
+frame_000000.jpg    Samudram_A (0.8544)
+frame_000011.jpg    Samudram_A (0.8197)
+frame_000022.jpg    Samudram_A (0.5283)
+frame_000033.jpg    Samudram_A (0.9277)
+frame_000044.jpg    Samudram_A (0.9252)
+frame_000352.jpg    Samudram_B (0.9688)
+frame_000363.jpg    Samudram_B (0.9280)
+frame_000374.jpg    Samudram_B (0.8809)
+
+Final Word        : Samudram
+Frame Count       : 8
+Probability Sum   : 6.8331
+Normalized Prob   : 0.8541
+Confidence (%)    : 85.41

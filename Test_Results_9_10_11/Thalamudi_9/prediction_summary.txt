@@ -1,0 +1,21 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Thalamudi\Thalamudi_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 11
+
+Frame predictions:
+frame_000000.jpg    Thalamudi_A (0.9076)
+frame_000022.jpg    Thalamudi_B (0.8819)
+frame_000033.jpg    Thalamudi_B (0.9690)
+frame_000044.jpg    Thalamudi_B (0.9519)
+frame_000055.jpg    Thalamudi_B (0.9850)
+frame_000066.jpg    Thalamudi_B (0.9566)
+frame_000077.jpg    Thalamudi_B (0.9550)
+frame_000088.jpg    Thalamudi_B (0.9694)
+frame_000099.jpg    Thalamudi_B (0.8751)
+frame_000616.jpg    Thalamudi_C (0.8573)
+
+Final Word        : Thalamudi
+Frame Count       : 10
+Probability Sum   : 9.3089
+Normalized Prob   : 0.9309
+Confidence (%)    : 93.09

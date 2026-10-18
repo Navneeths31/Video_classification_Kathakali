@@ -1,0 +1,19 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Chandran\Chandran_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 11
+
+Frame predictions:
+frame_000000.jpg    Chandran_A (0.5113)
+frame_000033.jpg    Chandran_A (0.7003)
+frame_000044.jpg    Chandran_A (0.9130)
+frame_000055.jpg    Chandran_A (0.9502)
+frame_000066.jpg    Chandran_A (0.9417)
+frame_000077.jpg    Chandran_A (0.9525)
+frame_000088.jpg    Chandran_A (0.8521)
+frame_000099.jpg    Chandran_A (0.9722)
+
+Final Word        : Chandran
+Frame Count       : 8
+Probability Sum   : 6.7934
+Normalized Prob   : 0.8492
+Confidence (%)    : 84.92

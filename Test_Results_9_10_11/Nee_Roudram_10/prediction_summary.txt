@@ -1,0 +1,19 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Nee_Roudram\Nee_Roudram_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 10
+
+Frame predictions:
+frame_000077.jpg    Nee_Roudram_B (0.7407)
+frame_000088.jpg    Nee_Roudram_B (0.7246)
+frame_000099.jpg    Nee_Roudram_B (0.9690)
+frame_000110.jpg    Nee_Roudram_B (0.8976)
+frame_000121.jpg    Nee_Roudram_B (0.9393)
+frame_000132.jpg    Nee_Roudram_B (0.9602)
+frame_000143.jpg    Nee_Roudram_B (0.9864)
+frame_000506.jpg    Nee_Roudram_C (0.9789)
+
+Final Word        : Nee_Roudram
+Frame Count       : 8
+Probability Sum   : 7.1967
+Normalized Prob   : 0.8996
+Confidence (%)    : 89.96

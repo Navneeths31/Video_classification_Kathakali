@@ -1,0 +1,26 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Thaliru\Thaliru_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 21
+
+Frame predictions:
+frame_000000.jpg    Thaliru_A (0.9798)
+frame_000011.jpg    Thaliru_A (0.9535)
+frame_000033.jpg    Thaliru_B (0.9257)
+frame_000044.jpg    Thaliru_B (0.9686)
+frame_000055.jpg    Thaliru_B (0.9751)
+frame_000066.jpg    Thaliru_B (0.9810)
+frame_000077.jpg    Thaliru_B (0.5156)
+frame_000308.jpg    Thaliru_C (0.9376)
+frame_000319.jpg    Thaliru_C (0.9592)
+frame_000330.jpg    Thaliru_C (0.9506)
+frame_000341.jpg    Thaliru_C (0.9552)
+frame_000352.jpg    Thaliru_C (0.9529)
+frame_000363.jpg    Thaliru_C (0.9414)
+frame_000374.jpg    Thaliru_C (0.9619)
+frame_000385.jpg    Thaliru_C (0.6398)
+
+Final Word        : Thaliru
+Frame Count       : 15
+Probability Sum   : 13.5978
+Normalized Prob   : 0.9065
+Confidence (%)    : 90.65

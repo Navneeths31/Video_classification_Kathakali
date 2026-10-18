@@ -1,0 +1,23 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Kannu\Kannu_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 12
+
+Frame predictions:
+frame_000000.jpg    Kannu_A (0.9147)
+frame_000011.jpg    Kannu_A (0.9508)
+frame_000022.jpg    Kannu_A (0.9244)
+frame_000033.jpg    Kannu_A (0.8960)
+frame_000044.jpg    Kannu_A (0.9231)
+frame_000055.jpg    Kannu_A (0.9351)
+frame_000066.jpg    Kannu_A (0.9672)
+frame_000077.jpg    Kannu_A (0.9391)
+frame_000088.jpg    Kannu_A (0.9436)
+frame_000099.jpg    Kannu_A (0.9176)
+frame_000165.jpg    Kannu_B (0.7623)
+frame_000517.jpg    Kannu_C (0.9091)
+
+Final Word        : Kannu
+Frame Count       : 12
+Probability Sum   : 10.9831
+Normalized Prob   : 0.9153
+Confidence (%)    : 91.53

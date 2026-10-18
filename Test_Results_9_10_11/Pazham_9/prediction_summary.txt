@@ -1,0 +1,31 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Pazham\Pazham_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 22
+
+Frame predictions:
+frame_000020.jpg    Pazham_A (0.9808)
+frame_000030.jpg    Pazham_A (0.9558)
+frame_000040.jpg    Pazham_A (0.9535)
+frame_000050.jpg    Pazham_A (0.9311)
+frame_000060.jpg    Pazham_B (0.5163)
+frame_000080.jpg    Pazham_B (0.8280)
+frame_000090.jpg    Pazham_B (0.9884)
+frame_000100.jpg    Pazham_B (0.9114)
+frame_000110.jpg    Pazham_C (0.9669)
+frame_000120.jpg    Pazham_C (0.9527)
+frame_000130.jpg    Pazham_C (0.9617)
+frame_000140.jpg    Pazham_C (0.9552)
+frame_000150.jpg    Pazham_C (0.9591)
+frame_000160.jpg    Pazham_C (0.9763)
+frame_000170.jpg    Pazham_C (0.9693)
+frame_000180.jpg    Pazham_C (0.9542)
+frame_000190.jpg    Pazham_C (0.9743)
+frame_000200.jpg    Pazham_C (0.9785)
+frame_000210.jpg    Pazham_C (0.9609)
+frame_000260.jpg    Pazham_C (0.9609)
+
+Final Word        : Pazham
+Frame Count       : 20
+Probability Sum   : 18.6356
+Normalized Prob   : 0.9318
+Confidence (%)    : 93.18

@@ -1,0 +1,30 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Amma\Amma_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 20
+
+Frame predictions:
+frame_000000.jpg    Amma_A (0.9265)
+frame_000011.jpg    Amma_A (0.6976)
+frame_000022.jpg    Amma_A (0.9125)
+frame_000044.jpg    Amma_B (0.9788)
+frame_000055.jpg    Amma_B (0.6160)
+frame_000066.jpg    Amma_B (0.5606)
+frame_000077.jpg    Amma_B (0.8301)
+frame_000088.jpg    Amma_B (0.9456)
+frame_000099.jpg    Amma_B (0.8704)
+frame_000209.jpg    Amma_C (0.9335)
+frame_000220.jpg    Amma_C (0.9574)
+frame_000231.jpg    Amma_C (0.9233)
+frame_000242.jpg    Amma_C (0.9638)
+frame_000253.jpg    Amma_C (0.9458)
+frame_000264.jpg    Amma_C (0.9123)
+frame_000275.jpg    Amma_C (0.8284)
+frame_000341.jpg    Amma_C (0.9119)
+frame_000352.jpg    Amma_C (0.9015)
+frame_000363.jpg    Amma_C (0.8521)
+
+Final Word        : Amma
+Frame Count       : 19
+Probability Sum   : 16.4683
+Normalized Prob   : 0.8668
+Confidence (%)    : 86.68

@@ -1,0 +1,26 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Nee_Shringaaram\Nee_Shringaaram_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 16
+
+Frame predictions:
+frame_000000.jpg    Nee_Shringaaram_A (0.9512)
+frame_000011.jpg    Nee_Shringaaram_A (0.9408)
+frame_000022.jpg    Nee_Shringaaram_A (0.8026)
+frame_000033.jpg    Nee_Shringaaram_A (0.8340)
+frame_000044.jpg    Nee_Shringaaram_A (0.5492)
+frame_000055.jpg    Nee_Shringaaram_A (0.6343)
+frame_000066.jpg    Nee_Shringaaram_A (0.8082)
+frame_000077.jpg    Nee_Shringaaram_A (0.6220)
+frame_000088.jpg    Nee_Shringaaram_A (0.7072)
+frame_000099.jpg    Nee_Shringaaram_A (0.5162)
+frame_000110.jpg    Nee_Shringaaram_A (0.5739)
+frame_000121.jpg    Nee_Shringaaram_A (0.7074)
+frame_000132.jpg    Nee_Shringaaram_A (0.7798)
+frame_000682.jpg    Nee_Shringaaram_C (0.5769)
+frame_000792.jpg    Nee_Shringaaram_C (0.9464)
+
+Final Word        : Nee_Shringaaram
+Frame Count       : 15
+Probability Sum   : 10.9501
+Normalized Prob   : 0.7300
+Confidence (%)    : 73.00

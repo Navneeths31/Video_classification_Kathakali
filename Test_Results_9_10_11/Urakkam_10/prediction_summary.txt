@@ -1,0 +1,24 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Urakkam\Urakkam_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 14
+
+Frame predictions:
+frame_000000.jpg    Urakkam_A (0.8925)
+frame_000011.jpg    Urakkam_A (0.8802)
+frame_000022.jpg    Urakkam_A (0.8847)
+frame_000033.jpg    Urakkam_A (0.8621)
+frame_000044.jpg    Urakkam_A (0.9292)
+frame_000055.jpg    Urakkam_A (0.8103)
+frame_000066.jpg    Urakkam_B (0.9502)
+frame_000077.jpg    Urakkam_B (0.9862)
+frame_000088.jpg    Urakkam_B (0.9577)
+frame_000099.jpg    Urakkam_B (0.9753)
+frame_000110.jpg    Urakkam_B (0.9021)
+frame_000121.jpg    Urakkam_C (0.8092)
+frame_000132.jpg    Urakkam_C (0.9268)
+
+Final Word        : Urakkam
+Frame Count       : 13
+Probability Sum   : 11.7664
+Normalized Prob   : 0.9051
+Confidence (%)    : 90.51

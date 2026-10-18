@@ -1,0 +1,27 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Aayudham\Aayudham_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 17
+
+Frame predictions:
+frame_000000.jpg    Aayudham_A (0.9496)
+frame_000011.jpg    Aayudham_A (0.9850)
+frame_000033.jpg    Aayudham_B (0.8596)
+frame_000044.jpg    Aayudham_B (0.9635)
+frame_000055.jpg    Aayudham_B (0.9292)
+frame_000066.jpg    Aayudham_B (0.9005)
+frame_000077.jpg    Aayudham_B (0.9104)
+frame_000088.jpg    Aayudham_B (0.9641)
+frame_000264.jpg    Aayudham_C (0.6262)
+frame_000275.jpg    Aayudham_C (0.9311)
+frame_000286.jpg    Aayudham_C (0.9268)
+frame_000297.jpg    Aayudham_C (0.8728)
+frame_000308.jpg    Aayudham_C (0.8599)
+frame_000319.jpg    Aayudham_C (0.8730)
+frame_000330.jpg    Aayudham_C (0.6846)
+frame_000407.jpg    Chundu_A (0.8043)
+
+Final Word        : Aayudham
+Frame Count       : 15
+Probability Sum   : 13.2362
+Normalized Prob   : 0.8824
+Confidence (%)    : 88.24

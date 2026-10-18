@@ -1,0 +1,17 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Sooryan\Sooryan_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 7
+
+Frame predictions:
+frame_000000.jpg    Sooryan_A (0.6218)
+frame_000022.jpg    Sooryan_A (0.8075)
+frame_000033.jpg    Sooryan_A (0.9113)
+frame_000044.jpg    Sooryan_A (0.9637)
+frame_000055.jpg    Sooryan_A (0.8996)
+frame_000396.jpg    Irikkuka_A (0.5882)
+
+Final Word        : Sooryan
+Frame Count       : 5
+Probability Sum   : 4.2039
+Normalized Prob   : 0.8408
+Confidence (%)    : 84.08

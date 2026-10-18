@@ -1,0 +1,19 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Shivan\Shivan_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 8
+
+Frame predictions:
+frame_000000.jpg    Bhrahmaavu_A (0.9196)
+frame_000011.jpg    Bhrahmaavu_A (0.5497)
+frame_000088.jpg    Shivan_B (0.6283)
+frame_000099.jpg    Shivan_B (0.6494)
+frame_000110.jpg    Shivan_B (0.5084)
+frame_000121.jpg    Shivan_B (0.5666)
+frame_000132.jpg    Shivan_B (0.7469)
+frame_000242.jpg    Shivan_C (0.5164)
+
+Final Word        : Shivan
+Frame Count       : 6
+Probability Sum   : 3.6161
+Normalized Prob   : 0.6027
+Confidence (%)    : 60.27

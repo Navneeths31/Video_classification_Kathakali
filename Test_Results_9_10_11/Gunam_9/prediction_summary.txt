@@ -1,0 +1,20 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Gunam\Gunam_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 11
+
+Frame predictions:
+frame_000020.jpg    Gunam_A (0.5278)
+frame_000030.jpg    Gunam_A (0.9570)
+frame_000040.jpg    Gunam_A (0.9502)
+frame_000050.jpg    Gunam_A (0.8958)
+frame_000060.jpg    Gunam_A (0.9689)
+frame_000070.jpg    Gunam_A (0.9509)
+frame_000080.jpg    Gunam_A (0.9202)
+frame_000090.jpg    Gunam_A (0.9790)
+frame_000300.jpg    Gunam_C (0.9289)
+
+Final Word        : Gunam
+Frame Count       : 9
+Probability Sum   : 8.0788
+Normalized Prob   : 0.8976
+Confidence (%)    : 89.76

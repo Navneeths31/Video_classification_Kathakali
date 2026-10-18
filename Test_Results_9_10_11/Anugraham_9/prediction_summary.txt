@@ -1,0 +1,23 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Anugraham\Anugraham_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 15
+
+Frame predictions:
+frame_000033.jpg    Anugraham_A (0.8793)
+frame_000044.jpg    Anugraham_A (0.9173)
+frame_000055.jpg    Anugraham_A (0.8912)
+frame_000066.jpg    Anugraham_B (0.9197)
+frame_000077.jpg    Anugraham_B (0.9203)
+frame_000088.jpg    Anugraham_B (0.7159)
+frame_000099.jpg    Anugraham_B (0.9416)
+frame_000110.jpg    Anugraham_C (0.7074)
+frame_000121.jpg    Anugraham_C (0.8390)
+frame_000132.jpg    Anugraham_C (0.9203)
+frame_000143.jpg    Anugraham_C (0.9404)
+frame_000286.jpg    Anugraham_C (0.9428)
+
+Final Word        : Anugraham
+Frame Count       : 12
+Probability Sum   : 10.5350
+Normalized Prob   : 0.8779
+Confidence (%)    : 87.79

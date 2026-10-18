@@ -1,0 +1,18 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Bhrahmaavu\Bhrahmaavu_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 8
+
+Frame predictions:
+frame_000000.jpg    Bhrahmaavu_A (0.7730)
+frame_000011.jpg    Shivan_A (0.5290)
+frame_000022.jpg    Shivan_A (0.6010)
+frame_000154.jpg    Bhrahmaavu_B (0.5801)
+frame_000165.jpg    Bhrahmaavu_B (0.6447)
+frame_000187.jpg    Bhrahmaavu_B (0.6962)
+frame_000275.jpg    Bhrahmaavu_C (0.8937)
+
+Final Word        : Bhrahmaavu
+Frame Count       : 5
+Probability Sum   : 3.5876
+Normalized Prob   : 0.7175
+Confidence (%)    : 71.75

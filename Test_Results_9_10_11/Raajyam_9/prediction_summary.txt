@@ -1,0 +1,32 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Raajyam\Raajyam_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 21
+
+Frame predictions:
+frame_000000.jpg    Manassu_C (0.7574)
+frame_000011.jpg    Raajyam_A (0.7303)
+frame_000022.jpg    Raajyam_A (0.6525)
+frame_000033.jpg    Raajyam_A (0.9161)
+frame_000044.jpg    Raajyam_A (0.6337)
+frame_000055.jpg    Raajyam_A (0.6895)
+frame_000066.jpg    Raajyam_A (0.9427)
+frame_000110.jpg    Raajyam_A (0.9587)
+frame_000121.jpg    Raajyam_A (0.9629)
+frame_000132.jpg    Raajyam_A (0.9273)
+frame_000143.jpg    Raajyam_A (0.9478)
+frame_000363.jpg    Raajyam_B (0.9425)
+frame_000374.jpg    Raajyam_B (0.9877)
+frame_000385.jpg    Raajyam_B (0.9818)
+frame_000396.jpg    Raajyam_B (0.9732)
+frame_000407.jpg    Raajyam_B (0.7529)
+frame_000418.jpg    Raajyam_B (0.6818)
+frame_000429.jpg    Raajyam_C (0.6152)
+frame_000440.jpg    Raajyam_C (0.9215)
+frame_000451.jpg    Raajyam_C (0.8580)
+frame_000528.jpg    Raajyam_C (0.8600)
+
+Final Word        : Raajyam
+Frame Count       : 20
+Probability Sum   : 16.9361
+Normalized Prob   : 0.8468
+Confidence (%)    : 84.68

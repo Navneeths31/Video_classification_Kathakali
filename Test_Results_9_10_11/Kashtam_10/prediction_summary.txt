@@ -1,0 +1,29 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Kashtam\Kashtam_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 20
+
+Frame predictions:
+frame_000011.jpg    Kashtam_A (0.9352)
+frame_000022.jpg    Kashtam_A (0.9885)
+frame_000033.jpg    Kashtam_A (0.9236)
+frame_000044.jpg    Kashtam_A (0.9545)
+frame_000088.jpg    Kashtam_A (0.8196)
+frame_000110.jpg    Kashtam_B (0.6979)
+frame_000121.jpg    Kashtam_B (0.6644)
+frame_000132.jpg    Kashtam_B (0.8782)
+frame_000143.jpg    Kashtam_B (0.6989)
+frame_000154.jpg    Kashtam_B (0.8773)
+frame_000165.jpg    Kashtam_B (0.9054)
+frame_000176.jpg    Kashtam_B (0.9230)
+frame_000187.jpg    Kashtam_B (0.9403)
+frame_000198.jpg    Kashtam_B (0.9018)
+frame_000209.jpg    Kashtam_B (0.9667)
+frame_000220.jpg    Kashtam_B (0.9366)
+frame_000231.jpg    Kashtam_B (0.9239)
+frame_000495.jpg    Kashtam_C (0.8835)
+
+Final Word        : Kashtam
+Frame Count       : 18
+Probability Sum   : 15.8194
+Normalized Prob   : 0.8789
+Confidence (%)    : 87.89

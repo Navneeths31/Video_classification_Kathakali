@@ -1,0 +1,29 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Pushpam\Pushpam_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 24
+
+Frame predictions:
+frame_000011.jpg    Pushpam_A (0.6972)
+frame_000022.jpg    Pushpam_A (0.9881)
+frame_000033.jpg    Pushpam_A (0.9422)
+frame_000044.jpg    Pushpam_A (0.9295)
+frame_000055.jpg    Pushpam_A (0.9520)
+frame_000066.jpg    Pushpam_A (0.9552)
+frame_000132.jpg    Pushpam_B (0.8245)
+frame_000143.jpg    Pushpam_B (0.9045)
+frame_000154.jpg    Pushpam_B (0.9556)
+frame_000165.jpg    Pushpam_B (0.9008)
+frame_000176.jpg    Pushpam_B (0.9211)
+frame_000396.jpg    Pushpam_C (0.8236)
+frame_000407.jpg    Pushpam_C (0.7120)
+frame_000418.jpg    Pushpam_C (0.7783)
+frame_000429.jpg    Pushpam_C (0.9195)
+frame_000440.jpg    Pushpam_C (0.8472)
+frame_000451.jpg    Pushpam_C (0.7772)
+frame_000517.jpg    Pazham_A (0.9496)
+
+Final Word        : Pushpam
+Frame Count       : 17
+Probability Sum   : 14.8286
+Normalized Prob   : 0.8723
+Confidence (%)    : 87.23

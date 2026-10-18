@@ -1,0 +1,27 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Kuyil\Kuyil_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 20
+
+Frame predictions:
+frame_000000.jpg    Kuyil_A (0.9211)
+frame_000011.jpg    Kuyil_A (0.9835)
+frame_000022.jpg    Kuyil_A (0.9422)
+frame_000033.jpg    Kuyil_A (0.6065)
+frame_000044.jpg    Kuyil_A (0.9749)
+frame_000077.jpg    Kuyil_B (0.7334)
+frame_000099.jpg    Kuyil_B (0.5978)
+frame_000110.jpg    Kuyil_B (0.8537)
+frame_000121.jpg    Kuyil_B (0.9023)
+frame_000132.jpg    Kuyil_B (0.9577)
+frame_000143.jpg    Kuyil_B (0.9003)
+frame_000154.jpg    Kuyil_B (0.9615)
+frame_000165.jpg    Kuyil_B (0.7449)
+frame_000176.jpg    Kuyil_B (0.8774)
+frame_000187.jpg    Kuyil_B (0.7423)
+frame_000198.jpg    Kuyil_B (0.7912)
+
+Final Word        : Kuyil
+Frame Count       : 16
+Probability Sum   : 13.4909
+Normalized Prob   : 0.8432
+Confidence (%)    : 84.32

@@ -1,0 +1,21 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Veedu\Veedu_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 14
+
+Frame predictions:
+frame_000022.jpg    Veedu_A (0.5552)
+frame_000044.jpg    Veedu_A (0.9137)
+frame_000121.jpg    Veedu_B (0.8668)
+frame_000132.jpg    Veedu_C (0.6753)
+frame_000143.jpg    Veedu_C (0.9456)
+frame_000154.jpg    Veedu_C (0.7681)
+frame_000165.jpg    Veedu_C (0.9676)
+frame_000176.jpg    Veedu_C (0.9590)
+frame_000187.jpg    Veedu_C (0.9719)
+frame_000297.jpg    Veedu_C (0.9019)
+
+Final Word        : Veedu
+Frame Count       : 10
+Probability Sum   : 8.5252
+Normalized Prob   : 0.8525
+Confidence (%)    : 85.25

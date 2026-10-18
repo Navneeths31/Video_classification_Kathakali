@@ -1,0 +1,19 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Kaadu\Kaadu_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 13
+
+Frame predictions:
+frame_000000.jpg    Vriksham_C (0.7465)
+frame_000088.jpg    Vriksham_A (0.9170)
+frame_000099.jpg    Vriksham_A (0.6611)
+frame_000110.jpg    Vriksham_A (0.7591)
+frame_000374.jpg    Vriksham_B (0.8259)
+frame_000385.jpg    Vriksham_C (0.8287)
+frame_000418.jpg    Kaadu_B (0.5218)
+frame_000792.jpg    Kaadu_C (0.9154)
+
+Final Word        : Vriksham
+Frame Count       : 6
+Probability Sum   : 4.7382
+Normalized Prob   : 0.7897
+Confidence (%)    : 78.97

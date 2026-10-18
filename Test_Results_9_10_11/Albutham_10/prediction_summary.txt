@@ -1,0 +1,20 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Albutham\Albutham_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 16
+
+Frame predictions:
+frame_000011.jpg    Albutham_A (0.8926)
+frame_000088.jpg    Albutham_B (0.5418)
+frame_000099.jpg    Albutham_B (0.9534)
+frame_000110.jpg    Albutham_B (0.9092)
+frame_000121.jpg    Albutham_B (0.9181)
+frame_000132.jpg    Albutham_B (0.8975)
+frame_000143.jpg    Albutham_B (0.8353)
+frame_000165.jpg    Albutham_C (0.6745)
+frame_000418.jpg    Albutham_C (0.9471)
+
+Final Word        : Albutham
+Frame Count       : 9
+Probability Sum   : 7.5695
+Normalized Prob   : 0.8411
+Confidence (%)    : 84.11

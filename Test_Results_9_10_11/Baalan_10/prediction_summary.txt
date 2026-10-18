@@ -1,0 +1,21 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Baalan\Baalan_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 15
+
+Frame predictions:
+frame_000022.jpg    Baalan_A (0.5974)
+frame_000033.jpg    Baalan_B (0.6219)
+frame_000044.jpg    Baalan_B (0.9486)
+frame_000055.jpg    Baalan_B (0.6626)
+frame_000066.jpg    Baalan_B (0.7437)
+frame_000209.jpg    Baalan_C (0.9696)
+frame_000220.jpg    Baalan_C (0.9604)
+frame_000231.jpg    Baalan_C (0.8846)
+frame_000253.jpg    Baalan_C (0.6382)
+frame_000319.jpg    Baalan_C (0.5907)
+
+Final Word        : Baalan
+Frame Count       : 10
+Probability Sum   : 7.6177
+Normalized Prob   : 0.7618
+Confidence (%)    : 76.18

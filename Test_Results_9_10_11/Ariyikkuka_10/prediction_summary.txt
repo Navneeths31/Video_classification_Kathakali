@@ -1,0 +1,24 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Ariyikkuka\Ariyikkuka_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 16
+
+Frame predictions:
+frame_000011.jpg    Anugraham_B (0.5813)
+frame_000033.jpg    Ariyikkuka_A (0.5524)
+frame_000044.jpg    Ariyikkuka_A (0.7744)
+frame_000055.jpg    Ariyikkuka_A (0.9088)
+frame_000077.jpg    Ariyikkuka_A (0.7471)
+frame_000088.jpg    Ariyikkuka_B (0.9016)
+frame_000099.jpg    Ariyikkuka_B (0.9045)
+frame_000110.jpg    Ariyikkuka_B (0.8388)
+frame_000121.jpg    Ariyikkuka_B (0.8666)
+frame_000132.jpg    Ariyikkuka_B (0.8829)
+frame_000143.jpg    Ariyikkuka_B (0.9714)
+frame_000154.jpg    Ariyikkuka_B (0.7563)
+frame_000297.jpg    Ariyikkuka_C (0.8016)
+
+Final Word        : Ariyikkuka
+Frame Count       : 12
+Probability Sum   : 9.9062
+Normalized Prob   : 0.8255
+Confidence (%)    : 82.55

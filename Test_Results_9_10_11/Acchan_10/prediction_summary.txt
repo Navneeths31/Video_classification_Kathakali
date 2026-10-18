@@ -1,0 +1,16 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Acchan\Acchan_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 20
+
+Frame predictions:
+frame_000000.jpg    Acchan_A (0.5558)
+frame_000011.jpg    Acchan_A (0.7408)
+frame_000033.jpg    Acchan_A (0.5414)
+frame_000044.jpg    Satyam_A (0.6405)
+frame_000055.jpg    Acchan_A (0.8844)
+
+Final Word        : Acchan
+Frame Count       : 4
+Probability Sum   : 2.7224
+Normalized Prob   : 0.6806
+Confidence (%)    : 68.06

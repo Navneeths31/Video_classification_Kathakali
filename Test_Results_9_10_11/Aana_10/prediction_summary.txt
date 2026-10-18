@@ -1,0 +1,14 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Aana\Aana_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 4
+
+Frame predictions:
+frame_000000.jpg    Veedu_C (0.9395)
+frame_000011.jpg    Veedu_C (0.9099)
+frame_000539.jpg    Aana_C (0.9345)
+
+Final Word        : Veedu
+Frame Count       : 2
+Probability Sum   : 1.8494
+Normalized Prob   : 0.9247
+Confidence (%)    : 92.47

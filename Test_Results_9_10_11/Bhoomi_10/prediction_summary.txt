@@ -1,0 +1,17 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Bhoomi\Bhoomi_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 11
+
+Frame predictions:
+frame_000088.jpg    Bhoomi_A (0.7498)
+frame_000099.jpg    Bhoomi_A (0.9160)
+frame_000110.jpg    Bhoomi_A (0.7390)
+frame_000132.jpg    Bhoomi_A (0.6898)
+frame_000209.jpg    Bhoomi_B (0.6724)
+frame_000506.jpg    Bhoomi_B (0.6645)
+
+Final Word        : Bhoomi
+Frame Count       : 6
+Probability Sum   : 4.4315
+Normalized Prob   : 0.7386
+Confidence (%)    : 73.86

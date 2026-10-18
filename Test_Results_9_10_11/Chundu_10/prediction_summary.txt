@@ -1,0 +1,25 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Chundu\Chundu_10.mp4
+KF threshold   : >= 0.5
+Keyframes used : 18
+
+Frame predictions:
+frame_000000.jpg    Chundu_A (0.9067)
+frame_000011.jpg    Chundu_A (0.9480)
+frame_000022.jpg    Chundu_A (0.9666)
+frame_000077.jpg    Chundu_B (0.5330)
+frame_000088.jpg    Chundu_B (0.8087)
+frame_000099.jpg    Chundu_B (0.9349)
+frame_000110.jpg    Chundu_B (0.9485)
+frame_000121.jpg    Chundu_B (0.9661)
+frame_000132.jpg    Chundu_B (0.9511)
+frame_000143.jpg    Chundu_B (0.9783)
+frame_000154.jpg    Chundu_B (0.9366)
+frame_000165.jpg    Chundu_B (0.8632)
+frame_000176.jpg    Chundu_B (0.8277)
+frame_000418.jpg    Chundu_C (0.9802)
+
+Final Word        : Chundu
+Frame Count       : 14
+Probability Sum   : 12.5495
+Normalized Prob   : 0.8964
+Confidence (%)    : 89.64

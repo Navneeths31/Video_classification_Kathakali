@@ -1,0 +1,13 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Vishnu\Vishnu_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 7
+
+Frame predictions:
+frame_000044.jpg    Vishnu_A (0.7009)
+frame_000055.jpg    Vishnu_A (0.6802)
+
+Final Word        : Vishnu
+Frame Count       : 2
+Probability Sum   : 1.3812
+Normalized Prob   : 0.6906
+Confidence (%)    : 69.06

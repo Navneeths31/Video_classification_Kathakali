@@ -1,0 +1,24 @@
+Video          : C:\Users\navne\Pictures\Kathakali\Videos_Cropped\Kallan\Kallan_9.mp4
+KF threshold   : >= 0.5
+Keyframes used : 17
+
+Frame predictions:
+frame_000011.jpg    Kallan_A (0.7893)
+frame_000022.jpg    Kallan_A (0.8536)
+frame_000033.jpg    Kallan_A (0.8149)
+frame_000055.jpg    Kallan_B (0.7379)
+frame_000066.jpg    Kallan_B (0.7473)
+frame_000077.jpg    Kallan_B (0.9629)
+frame_000088.jpg    Kallan_B (0.6931)
+frame_000099.jpg    Kallan_B (0.8516)
+frame_000110.jpg    Kallan_B (0.8855)
+frame_000209.jpg    Kallan_C (0.9209)
+frame_000363.jpg    Kallan_C (0.8512)
+frame_000374.jpg    Kallan_C (0.7877)
+frame_000385.jpg    Kallan_C (0.9371)
+
+Final Word        : Kallan
+Frame Count       : 13
+Probability Sum   : 10.8328
+Normalized Prob   : 0.8333
+Confidence (%)    : 83.33
